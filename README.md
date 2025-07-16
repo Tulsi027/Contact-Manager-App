@@ -42,7 +42,6 @@ This project was built to:
 
 ## 🖼️ Preview
 
-> _(Add your screenshot here once you have it)_
 
 ![Screenshot](Screenshot.png)
 
